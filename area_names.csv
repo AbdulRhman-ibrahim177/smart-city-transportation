@@ -1,0 +1,26 @@
+ID,Name,Latitude,Longitude,Population
+1,Maadi,29.9626,31.2617,150000
+2,Nasr City,30.0561,31.3300,250000
+3,Downtown Cairo,30.0444,31.2357,300000
+4,New Cairo,30.0300,31.4700,200000
+5,Heliopolis,30.0869,31.3300,180000
+6,Zamalek,30.0606,31.2200,120000
+7,6th October City,29.9527,30.9219,160000
+8,Giza,30.0131,31.2089,220000
+9,Mohandessin,30.0531,31.2036,140000
+10,Dokki,30.0385,31.2156,130000
+11,Shubra,30.0781,31.2464,190000
+12,Helwan,29.8414,31.3008,170000
+13,New Administrative Capital,30.0300,31.6500,100000
+14,Al Rehab,30.0619,31.4894,110000
+15,Sheikh Zayed,30.0300,30.9500,90000
+F1,Cairo International Airport,30.1219,31.4056,5000
+F2,Ramses Railway Station,30.0626,31.2472,3000
+F3,Cairo University,30.0275,31.2086,4000
+F4,Al-Azhar University,30.0459,31.2625,4000
+F5,Egyptian Museum,30.0478,31.2336,2000
+F6,Cairo International Stadium,30.0697,31.3040,1000
+F7,Smart Village,30.0781,31.0131,2000
+F8,Cairo Festival City,30.0300,31.4700,3000
+F9,Qasr El Aini Hospital,30.0333,31.2311,2000
+
